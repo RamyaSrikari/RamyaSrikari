@@ -1,25 +1,26 @@
 # Hi, I'm Ramya 👋
 
-Product and AI builder based in Paris, turning research, analytics, and web ideas into practical tools.
+Commercial and GTM operations professional focused on CRM implementation, market and competitive intelligence, Power BI reporting, sales enablement, and partnership development.
 
-## What I build
+## What I work on
 
-- AI-assisted competitive intelligence and product research
-- Data and analytics workflows that support better decisions
-- Polished web products with TypeScript, Next.js, and modern UI systems
+- CRM processes from lead capture through conversion
+- Market and competitor research for commercial decisions
+- Power BI dashboards and stakeholder reporting
+- Outreach, partnership, and sales-enablement workflows
+- Practical AI-assisted research and automation with human review
 
-## Featured work
+## Selected work
 
-| Project | What it does |
-|---|---|
-| [Axiom Token Discovery Dashboard](https://github.com/RamyaSrikari/Axiom-Trade-token) | Responsive, real-time token discovery interface built with Next.js, TypeScript, Redux Toolkit, and React Query. [Live demo](https://axiom-trade-token.vercel.app) |
-| [Portfolio](https://portfolio-sigma-tan-23.vercel.app) | Personal portfolio built with Next.js, TypeScript, and Tailwind CSS. |
-| TriVecta PM | AI-powered competitor intelligence platform for feature, pricing, positioning, and SWOT analysis. |
+- [Commercial & GTM Operations Portfolio](https://ramya-sri-anumolu.vercel.app/)
+- **Gisele:** a functioning multilingual internal AI assistant created during my CrossKnowledge internship
+- **Feast Lab:** a client-ready India-to-France food-export feasibility study and 12-month launch roadmap
+- **StopSignal:** a destination proximity alert application currently in development
 
-## Toolbox
+## Tools
 
-Product strategy · Competitive intelligence · TypeScript · Next.js · React · Supabase · OpenAI · Excel
+Zoho CRM · Salesforce · HubSpot · Power BI · Excel · LinkedIn Sales Navigator · n8n · Make
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/anumolu-/)
+[LinkedIn](https://linkedin.com/in/anumolu-/)
